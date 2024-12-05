@@ -1,4 +1,5 @@
-# Final-Year-Project (Degree in Software Engineering) WIP till DEC 2024
+# Final-Year-Project (Degree in Software Engineering) WIP 
+
 FYP: NLP-based AI Platform for Parliament Proceedings Analysis to Enhance Governmental Transparency and Civic Engagement
 
 Degree Final Year Project which utilizes: 
